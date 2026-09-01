@@ -1,5 +1,3 @@
-<!doctype html>
-
 <head>
     <title>Fantastic Four</title>
     <style>
