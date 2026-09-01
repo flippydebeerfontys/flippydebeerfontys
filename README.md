@@ -1,3 +1,5 @@
+<!doctype html>
+
 <head>
     <title>Fantastic Four</title>
     <style>
@@ -44,4 +46,6 @@
 <img src="disign2.jpeg" alt="fantastica disignia2">
 <img src="propelor.jpeg" alt="fantastica propelor">
 <img src="propelor2.jpeg" alt="fantastica propelor2">
+<img src="disign3.jpeg" alt="fantastica disignia3">
+<img src="disign4.jpeg" alt="fantastica disignia4">
 </div>
