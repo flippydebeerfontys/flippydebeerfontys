@@ -19,7 +19,7 @@
             object-fit: cover;       /* Zorgt dat de foto mooi schaalt zonder te vervormen */
             flex-shrink: 0;          /* Voorkomt dat foto's worden samengedrukt */
 }
-        .scroll-container2 {
+        .scroll-container2 img {
             display: flex;
             width: 100%;             /* Pas dit aan naar wens */
             height: 300px;           /* Geef de container een vaste hoogte */
