@@ -121,8 +121,8 @@
 <img src="PreConfiguration.jpeg" alt="fantastica Partsia"> 
 <img src="TestPlan.jpeg" alt="fantastica Plania">
 <img src="Hovercraftday2.1.jpeg" alt="fantastica Hoveria">
-<img src="Hovercrafday2.2.jpeg" alt="fantastica Hoveria">
-<img src="PostMeetingDay2.jpet" alt="fantastica meetinga"> 
+<img src="Hovercraftday2.2.jpeg" alt="fantastica Hoveria">
+<img src="PostMeetingDay2.jpeg" alt="fantastica meetinga"> 
 
 </div>
 
