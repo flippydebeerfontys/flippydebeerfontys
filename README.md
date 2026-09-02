@@ -70,4 +70,4 @@
 
 <img src="TechnicalDrawingBase.jpeg" alt="fantastica Drawia"> 
 <img src="CutOutBase.jpeg" alt="fantastica Basia"> 
-<img src="CutOutBaseBag.jpeg"alt="fantastica Basia2"> 
+<img src="CutOutBaseBag.jpeg" alt="fantastica Basia2"> 
