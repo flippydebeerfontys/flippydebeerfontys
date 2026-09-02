@@ -61,8 +61,8 @@
             width: 40px;       /* Pas de breedte naar wens aan */
             height: auto;       /* Behoudt de juiste verhoudingen */
 }
-
     </style>
+    
 </head>
 
 
