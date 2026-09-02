@@ -54,7 +54,7 @@
             width: 80px;       /* Pas de breedte naar wens aan */
             height: auto;       /* Behoudt de juiste verhoudingen */
 }
- .links-boven {
+         .links-boven {
             position: absolute; /* Haalt de foto uit de normale paginastroom */
             top: 10px;          /* Afstand vanaf de bovenkant */
             left: 10px;        /* Afstand vanaf de rechterkant */
@@ -68,7 +68,7 @@
 
 <img src="logo.jpeg" alt="fantastica logica" class="rechts-boven">
 
-<img src="lego-batman.jpeg" alt="fantastica legio">
+<img src="lego-batman.jpeg" alt="fantastica legio" class="links-boven">
 
 <h1> Fantastic Four </h1>
 
