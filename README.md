@@ -19,6 +19,16 @@
             object-fit: cover;       /* Zorgt dat de foto mooi schaalt zonder te vervormen */
             flex-shrink: 0;          /* Voorkomt dat foto's worden samengedrukt */
 }
+        .scroll-container2 {
+            display: flex;
+            width: 100%;             /* Pas dit aan naar wens */
+            height: 300px;           /* Geef de container een vaste hoogte */
+            overflow-x: auto;        /* Zorgt voor de horizontale scrollbar */
+            overflow-y: hidden;      /* Verbergt verticale scroll */
+            gap: 16px;               /* Ruimte tussen de foto's */
+}
+
+}
         .rechts-boven {
             position: absolute; /* Haalt de foto uit de normale paginastroom */
             top: 10px;          /* Afstand vanaf de bovenkant */
@@ -36,7 +46,7 @@
 
 <h1> Fantastic Four </h1>
 
-<p> hovercraft status: non existent </p>
+<p> Day 1/4 of developing the hovercraft: </p>
 
 <div class="scroll-container">
 
@@ -48,3 +58,9 @@
 <img src="disign3.jpeg" alt="fantastica disignia3">
 <img src="disign4.jpeg" alt="fantastica disignia4">
 </div>
+
+<p> Day 2/4 of developing the hovercraft:</p>
+
+<div class="scroll-container2">
+
+
