@@ -83,6 +83,9 @@
 <img src="TechnicalDrawingBase.jpeg" alt="fantastica Drawia"> 
 <img src="CutOutBase.jpeg" alt="fantastica Basia"> 
 <img src="CutOutBaseBag.jpeg" alt="fantastica Basia2"> 
+<img src="TopdownFullSketch.jpeg" alt="fantastica Sketchia"> 
+<img src="PropellorHolder.jpeg" alt="fantastica Holdia"> 
+<img src="PreConfiguration.jpeg" alt="fantastica Partsia"> 
 
 </div>
 
