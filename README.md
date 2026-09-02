@@ -47,6 +47,20 @@
             object-fit: cover;       /* Zorgt dat de foto mooi schaalt zonder te vervormen */
             flex-shrink: 0;          /* Voorkomt dat foto's worden samengedrukt */
 }
+        .scroll-container4 {
+            display: flex;
+            width: 100%;             /* Pas dit aan naar wens */
+            height: 300px;           /* Geef de container een vaste hoogte */
+            overflow-x: auto;        /* Zorgt voor de horizontale scrollbar */
+            overflow-y: hidden;      /* Verbergt verticale scroll */
+            gap: 16px;               /* Ruimte tussen de foto's */
+}
+        .scroll-container4 img {
+            height: 100%;            /* Vul de volledige hoogte van de container */
+            width: auto;             /* Behoud de originele breedte-verhouding */
+            object-fit: cover;       /* Zorgt dat de foto mooi schaalt zonder te vervormen */
+            flex-shrink: 0;          /* Voorkomt dat foto's worden samengedrukt */
+}
         .rechts-boven {
             position: absolute; /* Haalt de foto uit de normale paginastroom */
             top: 10px;          /* Afstand vanaf de bovenkant */
@@ -72,6 +86,16 @@
 
 <h1> Fantastic Four </h1>
 
+<h3> Hovercraft status: </h3>
+<p>
+    <ul>
+        <li>battery placement needed</li>
+        <li>cable management needed</li>
+        <li> steering system needs to be placed</li>
+        <li> skirt needs a hole for airflow</li>
+    </ul>
+</p>
+
 <p> Day 1/4 of developing the hovercraft: </p>
 
 <div class="scroll-container">
@@ -95,6 +119,10 @@
 <img src="TopdownFullSketch.jpeg" alt="fantastica Sketchia"> 
 <img src="PropellorHolder.jpeg" alt="fantastica Holdia"> 
 <img src="PreConfiguration.jpeg" alt="fantastica Partsia"> 
+<img src="TestPlan.jpeg" alt="fantastica Plania">
+<img src="Hovercraftday2.1.jpeg" alt="fantastica Hoveria">
+<img src="Hovercrafday2.2.jpeg" alt="fantastica Hoveria">
+<img src="PostMeetingDay2.jpet" alt="fantastica meetinga"> 
 
 </div>
 
