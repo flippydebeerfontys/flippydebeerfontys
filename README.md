@@ -82,7 +82,7 @@
 
 <img src="logo.jpeg" alt="fantastica logica" class="rechts-boven">
 
-<img src="lego-batman.jpeg" alt="fantastica legio" class="links-boven">
+<img src="lego-batman.webp" alt="fantastica legio" class="links-boven">
 
 <h1> Fantastic Four </h1>
 
