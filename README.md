@@ -51,7 +51,7 @@
             position: absolute; /* Haalt de foto uit de normale paginastroom */
             top: 10px;          /* Afstand vanaf de bovenkant */
             right: 10px;        /* Afstand vanaf de rechterkant */
-            width: 60px;       /* Pas de breedte naar wens aan */
+            width: 80px;       /* Pas de breedte naar wens aan */
             height: auto;       /* Behoudt de juiste verhoudingen */
 }
 
