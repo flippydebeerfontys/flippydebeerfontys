@@ -130,7 +130,7 @@
 
 <div class="scroll-container3">
     <img src="RudderSystem.jpeg" alt="fantastica Ruddera">
-    <img src="BalancedHovercraft" alt="fantastica Balancia">
+    <img src="BalancedHovercraft.jpeg" alt="fantastica Balancia">
     <video width="169" height="300" controls>
         <source src="FirstWorkingTest.mp4" type="video/mp4" alt="fantastica vidia1"> 
     </video>
