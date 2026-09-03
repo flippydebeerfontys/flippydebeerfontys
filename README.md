@@ -133,6 +133,8 @@
     <video width="169" height="300" controls>
         <source src="FirstWorkingTest.mp4" type="video/mp4" alt="fantastica vidia1"> 
     </video>
+    <img src="PictureTechnicalPoster.jpeg" alt="fantastica postera">
+    <img src="DecoratedHovercraft.jpeg" alt="fantastica hovera">
 </div>
 
 <p> Day 4/4 of developing the hovercraft:</p>
