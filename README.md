@@ -89,10 +89,9 @@
 <h3> Hovercraft status: </h3>
 <p>
     <ul>
-        <li>battery placement needed</li>
-        <li>cable management needed</li>
-        <li> steering system needs to be placed</li>
-        <li> skirt needs a hole for airflow</li>
+        <li>bumpers are being added</li>
+        <li>testing is in progress and adjustments are being made accordingly</li>
+        <li>decorating after brake</li>
     </ul>
 </p>
 
