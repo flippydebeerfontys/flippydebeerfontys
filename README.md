@@ -129,7 +129,11 @@
 <p>Day 3/4 of developing the hovercraft:</p>
 
 <div class="scroll-container3">
-    <p>nog niks te zien hier</p>
+    <img src="RudderSystem.jpeg" alt="fantastica Ruddera">
+    <img src="BalancedHovercraft" alt="fantastica Balancia">
+    <video width="169" height="300" controls>
+        <source src="FirstWorkingTest.mp4" type="video/mp4" alt="fantastica vidia1"> 
+    </video>
 </div>
 
 <p> Day 4/4 of developing the hovercraft:</p>
